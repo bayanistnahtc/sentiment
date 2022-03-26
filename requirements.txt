@@ -1,0 +1,5 @@
+Flask==1.1.2
+transformers
+sentencepiece
+torch
+Jinja2<3.1
